@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shani Bronshtein</h1>
 <h3 align="center">A motivated data scientist</h3>
 
+<img src="linkedin - cover photo (5).png"
 - 🔭 I’m currently working on [Heart Disease prediction](https://github.com/ShaniBron/Final-Project-Heart-diseases)
 
 - 📫 How to reach me **shanikehila@gmail.com**
